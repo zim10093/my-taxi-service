@@ -11,9 +11,6 @@
 
 <table class="table_dark">
     <tr>
-        <th>Redirect to main page</th>
-    </tr>
-    <tr>
         <td>
             <div>
                 <div>
