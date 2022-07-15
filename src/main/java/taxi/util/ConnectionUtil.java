@@ -9,7 +9,7 @@ public class ConnectionUtil {
     private static final String URL = System.getenv("DATABASE_TAXI_URL");
     private static final String USERNAME = System.getenv("DATABASE_TAXI_USER");
     private static final String PASSWORD = System.getenv("DATABASE_TAXI_PASSWORD");
-   private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
+    private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
         try {
